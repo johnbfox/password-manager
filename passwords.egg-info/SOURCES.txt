@@ -1,0 +1,7 @@
+setup.py
+passwords.egg-info/PKG-INFO
+passwords.egg-info/SOURCES.txt
+passwords.egg-info/dependency_links.txt
+passwords.egg-info/entry_points.txt
+passwords.egg-info/requires.txt
+passwords.egg-info/top_level.txt
